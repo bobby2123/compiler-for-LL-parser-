@@ -1,4 +1,4 @@
-# LL1-Parser-Simulator
+# LL1 Parser-Simulator
 
 LL1-Parser-Simulator is a web-based tool that simulates the working of LL(1) parser algorithm. This tool allows the user to input a grammar and a string, and then it generates a parse tree by parsing the input string based on the given grammar. The tool uses HTML, CSS, and JavaScript to create an interactive interface that visualizes the parsing process step by step. 
 
